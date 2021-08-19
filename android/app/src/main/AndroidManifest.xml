@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ebook">
+    package="com.carelesscoder.ebook">
    <application
         android:label="ebook"
         android:icon="@mipmap/ic_launcher">

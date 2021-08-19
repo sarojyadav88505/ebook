@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:19416491905:android:7b3b61a9ccf659f238aa80",
+        "mobilesdk_app_id": "1:19416491905:android:d9dc2c24bee8834138aa80",
         "android_client_info": {
-          "package_name": "com.example.ebook"
+          "package_name": "com.carelesscoder.ebook"
         }
       },
       "oauth_client": [
